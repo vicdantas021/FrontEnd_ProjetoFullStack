@@ -148,7 +148,7 @@ Adicione capturas de tela demonstrando:
 
 **Back-End (Fork):** [(https://github.com/vicdantas021/ProjetoFullStack.git)]
 
-**Front-End:** [Inserir link]
+**Front-End:** [(https://github.com/vicdantas021/FrontEnd_ProjetoFullStack.git)]
 
 ## 9. Conclusão do aluno
 
@@ -167,7 +167,7 @@ Explique com suas palavras:
 
 **Professor responsável:** Vitor Lima Santana
 
-**Desenvolvido por:** [Nome do aluno]
+**Desenvolvido por:** Victória  Alves Dantas
 
 **Atividade 08 – Desenvolvimento Web e Consumo de APIs REST**"# FrontEnd_ProjetoFullStack" 
 "# FrontEnd_ProjetoFullStack" 
